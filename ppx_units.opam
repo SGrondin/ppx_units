@@ -3,9 +3,9 @@ maintainer: "Simon Grondin"
 authors: [
   "Simon Grondin"
 ]
-synopsis: "TODO"
+synopsis: "Generate unit types for every record field"
 description: """
-TODO
+ppx_units is a simple deriver to automatically generate single variant types from record type definitions.
 """
 license: "MIT"
 tags: []
