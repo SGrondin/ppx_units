@@ -5,9 +5,9 @@ authors: [
 ]
 synopsis: "Generate unit types for every record field"
 description: """
-ppx_units is a simple deriver to automatically generate single variant types from record type definitions.
+ppx_units is a simple deriver to automatically generate single variant types from record type definitions
 """
-license: "MIT"
+license: "MPL 2.0"
 tags: []
 homepage: "https://github.com/SGrondin/ppx_units"
 dev-repo: "git://github.com/SGrondin/ppx_units"
